@@ -1,0 +1,34 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+background-image: linear-gradient(to right top, #6feed5, #1bbda2, #1ab3a3, #61accaf8, #73c6e2);
+}
+h1
+{
+ font-family: Georgia, 'Times New Roman', Times, serif; 
+ font-style: oblique;  
+}
+h3
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 200;
+font-style: inherit;
+}
